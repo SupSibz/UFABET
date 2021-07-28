@@ -1,0 +1,5 @@
+.elementor-181 .elementor-element.elementor-element-2c3f300a > .elementor-element-populated{margin:-10px 0px -15px 0px;}.elementor-181 .elementor-element.elementor-element-0056ed8 .elementor-button{fill:#000000;color:#000000;background-color:#61CE7000;border-radius:5px 5px 5px 5px;}/* Start custom CSS for button, class: .elementor-element-0056ed8 */#btnheader {
+        background: linear-gradient(to right, rgba(195,145,47,1) 0%,rgba(253,241,126,1) 32%,rgba(255,255,160,1) 51%,rgba(253,241,126,1) 70%,rgba(195,145,47,1) 100%);
+    border: 1px solid rgba(255,255,160,1);
+    border-radius: 3px;
+}/* End custom CSS */
